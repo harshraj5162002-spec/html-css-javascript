@@ -1,0 +1,27 @@
+#main-topic {
+    color: blue;
+}
+
+h1,
+h3,
+h5 {
+    font-style: georgia;
+}
+
+
+div button {
+    background-color: purple;
+    text-color: azure;
+
+}
+
+.content {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+
+* {
+    text-align: center;
+}
